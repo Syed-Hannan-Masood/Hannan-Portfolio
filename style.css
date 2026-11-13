@@ -1,6 +1,4 @@
-/* ==================================
-   GLOBAL SETTINGS
-================================== */
+/* GLOBAL SETTINGS*/
 
 * {
     margin: 0;
@@ -45,9 +43,7 @@ section {
     padding: 75px 8%;
 }
 
-/* ==================================
-   NAVIGATION BAR
-================================== */
+/* NAVIGATION BAR*/
 
 header {
     background: rgba(7, 17, 31, 0.96);
@@ -89,9 +85,7 @@ header {
     color: var(--primary);
 }
 
-/* ==================================
-   BUTTONS
-================================== */
+/* BUTTONS */
 
 .btn {
     display: inline-block;
@@ -122,9 +116,7 @@ header {
     color: #07111f;
 }
 
-/* ==================================
-   HOME PAGE
-================================== */
+/* HOME PAGE */
 
 .hero {
     min-height: 600px;
@@ -230,9 +222,7 @@ header {
     transform: translateY(-5px);
 }
 
-/* ==================================
-   QUICK INFORMATION
-================================== */
+/* INFORMATION */
 
 .quick-info {
     display: grid;
@@ -266,9 +256,7 @@ header {
     margin-top: 8px;
 }
 
-/* ==================================
-   PAGE HEADERS
-================================== */
+/* PAGE HEADERS*/
 
 .page-header {
     text-align: center;
@@ -292,9 +280,7 @@ header {
     color: var(--muted);
 }
 
-/* ==================================
-   ABOUT PAGE
-================================== */
+/* ABOUT PAGE */
 
 .about-section {
     display: flex;
@@ -386,9 +372,7 @@ header {
     margin-top: 10px;
 }
 
-/* ==================================
-   SKILLS PAGE
-================================== */
+/* SKILLS PAGE */
 
 .skills-container {
     display: grid;
@@ -470,9 +454,7 @@ header {
     margin-top: 8px;
 }
 
-/* ==================================
-   EXPERIENCE & PROJECTS
-================================== */
+/* EXPERIENCE & PROJECTS */
 
 .project-container {
     display: grid;
@@ -553,9 +535,7 @@ header {
     margin-top: 8px;
 }
 
-/* ==================================
-   CONTACT PAGE
-================================== */
+/* CONTACT PAGE */
 
 .contact-section {
     display: grid;
@@ -646,9 +626,7 @@ header {
     color: #718198;
 }
 
-/* ==================================
-   FOOTER
-================================== */
+/* FOOTER */
 
 footer {
     text-align: center;
@@ -659,9 +637,7 @@ footer {
     font-size: 14px;
 }
 
-/* ==================================
-   RESPONSIVE DESIGN
-================================== */
+/*  RESPONSIVE DESIGN */
 
 /* TABLETS */
 
